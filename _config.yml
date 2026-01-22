@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: storymapjs-template
-description: "a basic Jekyll template for self-hosted StoryMapJS"
-year: 2021
-author: evanwill 
+title: My Trips
+description: "a storymapsJS demo with my trip info as inspriation"
+year: 2026
+author: niels hoffmann 
 # add search box to navbar, true/false
 search: false
 # add representative image for social media sharing
